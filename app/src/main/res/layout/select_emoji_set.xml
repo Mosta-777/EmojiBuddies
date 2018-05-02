@@ -1,0 +1,144 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:id="@+id/select_emoji_set_linear_layout"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <RadioButton
+            android:id="@+id/EmojiOne"
+            android:tag="EmojiOne"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="EmojiOne"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Apple"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:tag="Apple"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Apple"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/emojidex"
+            android:tag="emojidex"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="emojidex"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Facebook"
+            android:tag="Facebook"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Facebook"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Google"
+            android:tag="Google"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Google"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/HTC"
+            android:tag="HTC"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="HTC"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/LG"
+            android:tag="LG"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="LG"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Messenger"
+            android:tag="Messenger"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Messenger"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Microsoft"
+            android:tag="Microsoft"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Microsoft"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Mozilla"
+            android:tag="Mozilla"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Mozilla"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Samsung"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Samsung"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/Twitter"
+            android:tag="Twitter"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="Twitter"
+            android:textSize="20sp" />
+        <RadioButton
+            android:id="@+id/WhatsApp"
+            android:tag="WhatsApp"
+            android:layout_width="match_parent"
+            android:padding="8dp"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableEnd="@android:drawable/btn_radio"
+            android:text="WhatsApp"
+            android:textSize="20sp" />
+    </RadioGroup>
+</LinearLayout>
+</ScrollView>

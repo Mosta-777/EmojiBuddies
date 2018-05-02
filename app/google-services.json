@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "965701513633",
+    "firebase_url": "https://emojibud.firebaseio.com",
+    "project_id": "emojibud",
+    "storage_bucket": "emojibud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965701513633:android:c7bfdd6593ffbf42",
+        "android_client_info": {
+          "package_name": "com.example.mostafa.emojibuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965701513633-4ckj73ld36b0qg105sso6krl6k87egq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mostafa.emojibuddies",
+            "certificate_hash": "1d30d9e63311228f38257e4f503b59886170e1a7"
+          }
+        },
+        {
+          "client_id": "965701513633-kc08t26j7p14qmmqirsku5ktsopmeaqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBMSJ6qxmlPkK61rtK8ICRaDpH6okYL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965701513633-kc08t26j7p14qmmqirsku5ktsopmeaqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EmojiBuddies</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_to_external_storage_denied">Permission to save photos to your external storage denied , please grant us this permission to save your captured photos .</string>
+    <string name="error_deleting_file">Error deleting image file</string>
+    <string name="saved_image_message">Your Image was saved at %1$s</string>
+    <string name="face_detector_not_operational">Face detector is not operational , please allow a network connetion and restart the app .</string>
+    <string name="no_faces_message">No faces were deteted</string>
+    <string name="no_emoji">Hmmmmm , didn\'t recognize this one , you can choose one from the set you seleted .</string>
+    <string name="image_preview_desc">The preview of the captured image</string>
+    <string name="emoji_picker_text">Select an emoji</string>
+
+    <string name="facebook_application_id" translatable="false">381738069007085</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb381738069007085</string>
+    <string name="empty_rv">You haven\'t added anyone yet , whenever you add a friend their story will be shown here .</string>
+    <string name="enter_emial">Enter your email address</string>
+    <string name="create_account_preamble">Click save to sign up</string>
+    <string name="singed_in_text">Signed in</string>
+    <string name="signed_in_cancelled_text">Sign in cancelled</string>
+    <string name="action_add_friend">Add friend</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_change_profile_pic">Change profile picture</string>
+    <string name="action_change_emoji_set">Change Emoji set</string>
+    <string name="failed_to_get_photo">Failed to fetch photo from gallery , try again .</string>
+    <string name="profile_pic_uploaded">Profile picture uploaded successfully</string>
+    <string name="tv_label">Enter your friend\'s tag :</string>
+    <string name="no_such_tag">No such tag was found , make sure you wrote the tag correctly</string>
+    <string name="friend_added">Friend added successfully !</string>
+    <string name="action_show_tag">My Tag</string>
+    <string name="user_profile_pic">User profile pic</string>
+    <string name="photo_uploaded_to_story">Photo added to your story successfully !</string>
+    <string name="action_emojify_from_gallery">Choose from gallery</string>
+    <string name="enter_caption">Tell your friends what do you feel :</string>
+    <string name="empty_story_text">Your Freind haven\'t uploaded any photos yet .</string>
+</resources>
